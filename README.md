@@ -17,6 +17,7 @@ DevOps promotes learning, innovation, and improvement over time. Mistakes are le
 #### User-Centred 
 The main goal is to deliver value to the user. Everything,  from coding, testing, to deployment, is done with the user’s experience in mind.
 
+
 ## Lifecycle Stages
 ### Planning
 This is where the team decides what features or fixes are needed. Goals are set, tasks are organized, and everyone agrees on what needs to be done.
